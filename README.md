@@ -1,5 +1,4 @@
 # hello-world
-anthony's first repo
 
 Hi Humans
 
